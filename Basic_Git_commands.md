@@ -12,4 +12,13 @@ git add . add all files
 git commit -m "notes of the commit"
 
 ## How to move files or folders
-git mv 
+git mv <original file/folder> <new folder>
+
+.\ current working folder, ..\upper level folder
+
+## Pull from remote repository
+git pull origin master
+
+git fetch origin
+
+git merge origin/master
